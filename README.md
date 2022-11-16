@@ -6,7 +6,7 @@
 - git clone https://github.com/Engmohammedalobaidy/information-tiktok
 - cd information-tiktok
 - ls
-- python3 main.py
+- python3 Main.py
 ```
 
 **Download To Termux**
@@ -17,6 +17,6 @@
 - git clone https://github.com/Engmohammedalobaidy/information-tiktok
 - cd information-tiktok
 - ls
-- python3 main.py
+- python3 Main.py
 
 ```
