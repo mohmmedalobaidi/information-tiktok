@@ -3,7 +3,7 @@
 - apt update
 - apt upgrade
 - apt-get install python3 -y
-- git clone https://github.com/alobaidiq/information-tiktok
+- git clone https://github.com/mohmmedalobaidi/information-tiktok
 - cd information-tiktok
 - ls
 - python3 Main.py
@@ -14,7 +14,7 @@
 - apt update
 - apt upgrade
 - pkg install python3 -y
-- git clone https://github.com/alobaidiq/information-tiktok
+- git clone https://github.com/mohmmedalobaidi/information-tiktok
 - cd information-tiktok
 - ls
 - python3 Main.py
